@@ -29,7 +29,7 @@ function ColorBox() {
             style={{ backgroundColor: color }}
             onClick={handleBoxClick}
         >
-            <p>COLOR-BOX</p>
+            <p>BOX COLORRRRRR</p>
         </div>
     );
 }
